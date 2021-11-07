@@ -1,1 +1,37 @@
-
+/*Universal design*/
+body {
+    font-family: Verdana;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+nav{
+    color: aquamarine;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+/*Header design*/
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+/*main design*/
+main h2 {
+    font-weight: 300px;
+    font-size: 42px;
+}
+main p {
+    font-size: 21px;
+    color: gray;
+}
+embed {
+    position: relative;
+    top: 30px;
+}
+/*footer design*/
+footer {
+    text-align: right;
+    color: gray;
+}
